@@ -1,0 +1,4 @@
+mesop==0.9.4
+openai==1.13.3
+python-dotenv==1.0.1
+
